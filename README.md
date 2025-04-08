@@ -9,7 +9,7 @@ This project presents a Churn Analysis Dashboard built in Power BI using telecom
 - Customer Grouping.
 - Charges Overview.
 - Call Activity.
-- Geographical Distribution.
+- Geographical Distribution
 and More!...
 
 ### 🛠 Tool Used: Power BI
